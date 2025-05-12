@@ -17,11 +17,12 @@ The Parking Reservation System is a console-based application designed to manage
 2. **Menu Options**: Users can choose from various options to manage parking operations.
 3. **File Storage**: Parking data is stored in a file (`parkingProjectFile.txt`) for persistence.
 
-## File Structure
+## Updated File Structure
 - `technicalFiles/myproject.c`: Main source code for the application.
-- `technicalFiles/parkingProjectFile.txt`: File used to store parking records.
-- `Flow-Chart.png` and `Flow-Chart.svg`: Visual representation of the system's workflow.
-- `mainMenu.png` and `starting.png`: Screenshots of the application interface.
+- `ProjectResources/Flow-Chart.png`: Flow chart image.
+- `ProjectResources/Flow-Chart.svg`: Flow chart in SVG format.
+- `ProjectResources/mainMenu.png`: Main menu image.
+- `ProjectResources/starting.png`: Starting screen image.
 
 ## How to Run
 1. Compile the source code using a C compiler (e.g., GCC).
@@ -43,8 +44,10 @@ The Parking Reservation System is a console-based application designed to manage
 - Add support for multiple parking lots.
 
 ## Screenshots
-- **Starting Screen**: ![Starting Screen](starting.png)
-- **Main Menu**: ![Main Menu](mainMenu.png)
+- **Starting Screen**: ![Starting Screen](ProjectResources/starting.png)
+- **Main Menu**: ![Main Menu](ProjectResources/mainMenu.png)
+- **Flowchart**: ![Flow Chart](ProjectResources/Flow-Chart.svg)
+
 
 ## License
 This project is open-source and free to use.
